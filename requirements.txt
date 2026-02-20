@@ -5,3 +5,6 @@ joblib
 FastAPI
 uvicorn
 pytest
+openpyxl
+pyarrow
+evidently
